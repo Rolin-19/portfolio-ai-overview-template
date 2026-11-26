@@ -4,13 +4,15 @@ Template portofolio dwibahasa Indonesia/Inggris dengan pencarian inline bergaya 
 
 Ringkasan (EN): A bilingual ID/EN portfolio template with an inline Google-style AI Overview. Answers stay inside the portfolio facts you provide. It also ships one-column ATS CV pages that print cleanly to PDF.
 
+**Live Demo:** https://rolin-19.github.io/portfolio-ai-overview-template/
+
 ## Fitur
 
 - Beranda editorial ID/EN dengan navigasi, seksi pengalaman, proyek, keahlian, dan kontak.
 - Widget pencarian inline: chip pertanyaan, kartu ringkasan, dan sumber yang bisa diklik dengan sorotan singkat.
 - Worker perangkum dengan sumber data tertutup: menolak topik di luar portofolio dan mengikuti bahasa pertanyaan.
 - CV ATS polos satu kolom, hitam di atas putih, dengan tombol cetak/simpan PDF.
-- Fallback ramah di frontend bila URL Worker belum diganti.
+- Mode pratinjau di frontend: kartu AI Overview menjelaskan bahwa pencarian aktif setelah Worker dihubungkan.
 
 ## Struktur folder
 

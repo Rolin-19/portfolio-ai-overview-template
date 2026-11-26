@@ -9,12 +9,12 @@
     ? {
         loading: "Summarizing portfolio...",
         error: "The summary is unavailable right now. Please try again.",
-        belum: "AI search is not configured yet. Follow the README to connect your Worker."
+        belum: "Template preview mode: AI search is not active yet. Connect your Cloudflare Worker to enable it."
       }
     : {
         loading: "Merangkum isi portofolio...",
         error: "Ringkasan belum tersedia. Silakan coba lagi.",
-        belum: "Pencarian AI belum dikonfigurasi. Ikuti README untuk menghubungkan Worker Anda."
+        belum: "Mode pratinjau template: pencarian AI belum aktif. Hubungkan Cloudflare Worker Anda untuk mengaktifkannya."
       };
 
   var SUMBER = IS_EN
