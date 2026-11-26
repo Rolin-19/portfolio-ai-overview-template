@@ -22,22 +22,22 @@
         {
           label: "Experience",
           href: "#experience",
-          keys: ["experience", "work", "role", "job", "career", "peran", "[Perusahaan 1]", "layanan pelanggan", "[Perusahaan 2]", "[Perusahaan 3]", "[Perusahaan 4]", "[Perusahaan 5]"]
+          keys: ["experience", "work", "role", "job", "career", "[Nama Anda]", "[Posisi / Peran Terbaru]", "[Posisi Sebelumnya]", "[Nama Perusahaan A]", "[Nama Perusahaan B]"]
         },
         {
           label: "[Nama Proyek Unggulan]",
           href: "../proyek/sample-project.html",
-          keys: ["[Nama Proyek Unggulan]", "sop", "innovation", "apps script", "sheets"]
+          keys: ["[Nama Proyek Unggulan]", "flagship", "unggulan", "case study"]
         },
         {
           label: "Projects",
           href: "#projects",
-          keys: ["project", "python", "sql", "pandas", "proyek", "movie", "culinary", "segmentation", "machine learning", "data analysis", "analisis"]
+          keys: ["project", "projects", "proyek", "[Nama Proyek 2]", "[Nama Proyek 3]", "[Alat 1]", "[Alat 2]"]
         },
         {
           label: "Education",
           href: "#skills",
-          keys: ["education", "certificate", "[jenjang]", "[Program Studi]", "[Nama Kampus]", "gpa", "[IPK]", "dicoding", "codecademy", "skills"]
+          keys: ["education", "certificate", "certificates", "sertifikasi", "[Gelar / Jurusan]", "[Nama Institusi]", "[Nama Sertifikasi 1]", "skills", "keahlian"]
         },
         {
           label: "Contact",
@@ -49,22 +49,22 @@
         {
           label: "Pengalaman",
           href: "#pengalaman",
-          keys: ["pengalaman", "kerja", "jabatan", "karir", "peran", "[Perusahaan 1]", "layanan pelanggan", "[Perusahaan 2]", "[Perusahaan 3]", "[Perusahaan 4]", "[Perusahaan 5]"]
+          keys: ["pengalaman", "kerja", "jabatan", "karir", "[Nama Anda]", "[Posisi / Peran Terbaru]", "[Posisi Sebelumnya]", "[Nama Perusahaan A]", "[Nama Perusahaan B]"]
         },
         {
           label: "[Nama Proyek Unggulan]",
           href: "proyek/contoh-proyek.html",
-          keys: ["[Nama Proyek Unggulan]", "sop", "innovation", "apps script", "sheets"]
+          keys: ["[Nama Proyek Unggulan]", "unggulan", "studi kasus"]
         },
         {
           label: "Proyek",
           href: "#proyek",
-          keys: ["proyek", "python", "sql", "pandas", "proyek", "film", "kuliner", "segmentasi", "machine learning", "analisis data"]
+          keys: ["proyek", "project", "[Nama Proyek 2]", "[Nama Proyek 3]", "[Alat 1]", "[Alat 2]"]
         },
         {
           label: "Pendidikan",
           href: "#keahlian",
-          keys: ["pendidikan", "kampus", "[jenjang]", "[Program Studi]", "[Nama Kampus]", "ipk", "[IPK]", "sertifikat", "dicoding", "codecademy", "keahlian"]
+          keys: ["pendidikan", "kampus", "sertifikat", "[Gelar / Jurusan]", "[Nama Institusi]", "[Nama Sertifikasi 1]", "keahlian"]
         },
         {
           label: "Kontak",
