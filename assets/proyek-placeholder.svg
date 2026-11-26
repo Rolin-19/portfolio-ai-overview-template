@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-label="Placeholder tangkapan layar proyek">
+  <rect width="1120" height="700" fill="#F8FAFC"/>
+  <rect x="80" y="90" width="960" height="520" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+  <rect x="80" y="90" width="960" height="64" rx="14" fill="#EFF4FF"/>
+  <circle cx="120" cy="122" r="9" fill="#2563EB"/>
+  <circle cx="150" cy="122" r="9" fill="#CBD5E1"/>
+  <circle cx="180" cy="122" r="9" fill="#CBD5E1"/>
+  <text x="560" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#1D4ED8">[Tangkapan Layar Proyek]</text>
+</svg>

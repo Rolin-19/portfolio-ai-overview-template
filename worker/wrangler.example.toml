@@ -1,0 +1,9 @@
+name = "portfolio-ai-overview"
+main = "src/index.js"
+compatibility_date = "2026-01-01"
+
+[vars]
+ALLOWED_ORIGIN = "https://username.github.io"
+
+# Isi AI_API_KEY lewat variabel terenkripsi Cloudflare sebelum deploy.
+# AI_API_KEY = "MASUKKAN_API_KEY_ANDA"

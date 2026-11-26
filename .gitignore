@@ -1,0 +1,10 @@
+.env
+.dev.vars
+wrangler.toml
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.swp
+~
